@@ -25,4 +25,4 @@
 
 ## 📊 Estatísticas do GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VinciusBraga9&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusAglay&layout=compact&theme=radi
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VinciiusBraga9&layout=compact&theme=radi
