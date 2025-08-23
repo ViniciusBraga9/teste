@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Vinicius Aglay!
+# 👋 Olá, eu sou o Vinicius Braga!
 
 🎓 Estudante de **Sistemas de Informação**  
 💻 Focado em **Python, Inteligência Artificial, Automação e Desenvolvimento Web**  
