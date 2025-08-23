@@ -22,7 +22,3 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 
 ---
-
-## 📊 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VinciusBraga9&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VinciiusBraga9&layout=compact&theme=radi
